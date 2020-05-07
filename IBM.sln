@@ -1,0 +1,26 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM.Products", "src\IBM.Products\IBM.Products.csproj", "{E46A9A8C-F8F7-428F-B16C-83F956FECAAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7361DC64-BE35-4D27-937B-17CC7B927144}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "guide", "guide", "{9A48574F-57BB-4A2F-BFD6-D5B61E7432D5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46A9A8C-F8F7-428F-B16C-83F956FECAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46A9A8C-F8F7-428F-B16C-83F956FECAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46A9A8C-F8F7-428F-B16C-83F956FECAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46A9A8C-F8F7-428F-B16C-83F956FECAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E46A9A8C-F8F7-428F-B16C-83F956FECAAE} = {7361DC64-BE35-4D27-937B-17CC7B927144}
+	EndGlobalSection
+EndGlobal
